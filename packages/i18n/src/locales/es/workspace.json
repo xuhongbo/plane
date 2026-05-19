@@ -437,8 +437,8 @@
     "profile_setup_failed": "Error en la configuración del perfil.",
     "usecase_title": "¿Cómo planeas utilizar Plane?",
     "usecase_description": "Selecciona una o más opciones para que podamos personalizar tu experiencia.",
-    "select_one_or_more": "Seleccione uno o más",
-    "select_at_least_one": "Seleccione al menos una opción.",
+    "select_one_or_more": "Selecciona uno o más",
+    "select_at_least_one": "Selecciona al menos una opción.",
     "skip": "Omitir"
   }
 }
