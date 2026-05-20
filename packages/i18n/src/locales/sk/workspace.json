@@ -334,7 +334,7 @@
       "dropzone": {
         "active": "Presuňte CSV súbor sem",
         "inactive": "Presuňte alebo kliknite pre nahranie",
-        "file_type": "Podporované są iba súbory .csv"
+        "file_type": "Podporované sú iba súbory .csv"
       },
       "buttons": {
         "cancel": "Zrušiť",
